@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "DiscreteInverseWeibull"]
+	path = DiscreteInverseWeibull
+	url = https://github.com/cran/DiscreteInverseWeibull
+[submodule "DiscreteLaplace"]
+	path = DiscreteLaplace
+	url = https://github.com/cran/DiscreteLaplace
+[submodule "DiscreteWeibull"]
+	path = DiscreteWeibull
+	url = https://github.com/cran/DiscreteWeibull
+[submodule "GenOrd"]
+	path = GenOrd
+	url = https://github.com/cran/GenOrd
+[submodule "StressStrength"]
+	path = StressStrength
+	url = https://github.com/cran/StressStrength
+[submodule "bivgeom"]
+	path = bivgeom
+	url = https://github.com/cran/bivgeom
