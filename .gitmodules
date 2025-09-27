@@ -13,7 +13,7 @@
 	url = https://github.com/cran/DiscreteWeibull
 [submodule "GenOrd"]
 	path = GenOrd
-	url = https://github.com/cran/GenOrd
+	url = https://github.com/alessandro-barbiero/genord
 [submodule "StressStrength"]
 	path = StressStrength
 	url = https://github.com/cran/StressStrength
